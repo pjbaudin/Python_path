@@ -7,8 +7,8 @@ Import json data
 import os
 import json
 
-# Set the workign directory
-wd = "C:/Users/pierr/Documents/GitHub/Python_Path/import_file"
+# Set the working directory
+wd = "C:/Users/pierr/Documents/GitHub/Python_Path/import input"
 os.chdir(wd)
 
 # Open file and read json input file
@@ -19,5 +19,6 @@ with open('input.json', 'r') as input:
         for hobby in obj['hobbies']:
             output.write(hobby + "\n")
 
+print("Process completed")
 
 
