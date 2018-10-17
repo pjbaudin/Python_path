@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3130eae-3f3d-4668-af59-ae23fbb35ebb" name="Default Changelist" comment="" />
+    <list default="true" id="d3130eae-3f3d-4668-af59-ae23fbb35ebb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pymodule/classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymodule/hs_student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymodule/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pymodule/student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,14 +25,14 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="R" value="1" />
-          <entry key="py" value="8" />
+          <entry key="py" value="15" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="8" />
+          <entry key="Python" value="15" />
           <entry key="R" value="1" />
         </counts>
       </usages-collector>
@@ -34,14 +40,14 @@
         <counts>
           <entry key="Python Console" value="463" />
           <entry key="R" value="44" />
-          <entry key="py" value="1881" />
+          <entry key="py" value="2807" />
           <entry key="txt" value="87" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="87" />
-          <entry key="Python" value="2344" />
+          <entry key="Python" value="3270" />
           <entry key="R" value="44" />
         </counts>
       </usages-collector>
@@ -49,25 +55,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pymodule/functions.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pymodule/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-              <folding>
-                <marker date="1539680729479" expanded="true" signature="75:80" ph="..." />
-                <marker date="1539680729479" expanded="true" signature="255:256" ph="..." />
-                <marker date="1539680729479" expanded="true" signature="431:436" ph="..." />
-                <marker date="1539680729479" expanded="true" signature="486:596" ph="..." />
-                <marker date="1539680729479" expanded="true" signature="665:907" ph="..." />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pymodule/students.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/pymodule/hs_student.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pymodule/student.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -95,14 +107,18 @@
         <option value="$PROJECT_DIR$/test.R" />
         <option value="$PROJECT_DIR$/Gettingstarted/basicscript.py" />
         <option value="$PROJECT_DIR$/pymodule/functions.py" />
+        <option value="$PROJECT_DIR$/pymodule/classes.py" />
+        <option value="$PROJECT_DIR$/pymodule/hs_student.py" />
+        <option value="$PROJECT_DIR$/pymodule/main.py" />
+        <option value="$PROJECT_DIR$/pymodule/student.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="953" />
-    <option name="y" value="52" />
+    <option name="y" value="30" />
     <option name="width" value="974" />
-    <option name="height" value="1035" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -132,6 +148,14 @@
     <property name="last_opened_file_path" value="C:/Program Files/R/R-3.5.1" />
     <property name="settings.editor.selected.configurable" value="RSettings" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pierr\Documents\GitHub\Python_path\pymodule" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pierr\Documents\GitHub\Python_path\pymodule" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -144,8 +168,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.functions">
-    <configuration name="basicscript" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="classes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_path" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +177,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Gettingstarted" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pymodule" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gettingstarted/basicscript.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pymodule/classes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,7 +211,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="helloworld" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hs_student" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_path" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,11 +219,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/pythonpath" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pymodule" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/pythonpath/helloworld.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pymodule/hs_student.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="input" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_path" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,11 +240,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/import input" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pymodule" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/import input/input.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pymodule/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,27 +253,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="RRunConfigurationType" factoryName="R" temporary="true">
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/test.R" />
-      <option name="SCRIPT_ARGS" value="" />
-      <option name="WORKING_DIRECTORY_PATH" value="C:\Users\pierr\Documents\GitHub\Python_path" />
-      <option name="PASS_PARENT_ENVS" value="true" />
+    <configuration name="student" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_path" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pymodule" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pymodule/student.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.input" />
-      <item itemvalue="Python.helloworld" />
-      <item itemvalue="R.test" />
-      <item itemvalue="Python.basicscript" />
       <item itemvalue="Python.functions" />
+      <item itemvalue="Python.classes" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.hs_student" />
+      <item itemvalue="Python.student" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.student" />
+        <item itemvalue="Python.hs_student" />
+        <item itemvalue="Python.classes" />
         <item itemvalue="Python.functions" />
-        <item itemvalue="Python.basicscript" />
-        <item itemvalue="R.test" />
-        <item itemvalue="Python.helloworld" />
-        <item itemvalue="Python.input" />
       </list>
     </recent_temporary>
   </component>
@@ -305,10 +343,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="52" width="974" height="1035" extended-state="0" />
+    <frame x="953" y="30" width="974" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945295" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" sideWeight="0.4989059" weight="0.5417118" />
@@ -316,7 +355,7 @@
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5021882" side_tool="true" weight="0.33261105" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49781182" visible="true" weight="0.3407325" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49781182" visible="true" weight="0.33261105" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -382,10 +421,24 @@
     <entry file="file://$PROJECT_DIR$/pymodule/students.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1538927481/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="815" column="8" selection-start-line="815" selection-start-column="8" selection-end-line="815" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pymodule/classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pymodule/functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="177">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="19" />
           <folding>
             <marker date="1539680729479" expanded="true" signature="75:80" ph="..." />
             <marker date="1539680729479" expanded="true" signature="255:256" ph="..." />
@@ -393,6 +446,27 @@
             <marker date="1539680729479" expanded="true" signature="486:596" ph="..." />
             <marker date="1539680729479" expanded="true" signature="665:907" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pymodule/hs_student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pymodule/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pymodule/student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
