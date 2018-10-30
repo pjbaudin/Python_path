@@ -1,0 +1,3 @@
+# Create a bz2 and gz file from the command line
+python -m reader.compressed.bzipped test.bz2 data compressed with bz2
+python -m reader.compressed.gzipped test.gz data compressed with gz
