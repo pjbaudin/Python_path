@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40030499-186b-41e6-a066-0ec0f58e9b73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/module3/raise_to.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module3/sort_by_last_letter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resolver/resolver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/escape_unicode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/make_timer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reader/compressed/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/module3/enclosing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.bz2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3/enclosing.py" beforeDir="false" afterPath="$PROJECT_DIR$/module3/enclosing.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,64 +26,41 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="1129" />
-          <entry key="py" value="1521" />
+          <entry key="py" value="1994" />
           <entry key="txt" value="221" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="221" />
-          <entry key="Python" value="2650" />
+          <entry key="Python" value="3123" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="bz2" value="1" />
-          <entry key="py" value="37" />
+          <entry key="py" value="39" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="37" />
+          <entry key="Python" value="39" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module3/sort_by_last_letter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <marker date="1540871566132" expanded="true" signature="46:51" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module3/raise_to.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <marker date="1540877004996" expanded="true" signature="45:50" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/module3/enclosing.py">
+        <entry file="file://$PROJECT_DIR$/module3/escape_unicode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
-                <marker date="1540877370600" expanded="true" signature="37:42" ph="..." />
+                <marker date="1540878811955" expanded="true" signature="22:27" ph="..." />
+                <marker date="1540878811955" expanded="true" signature="163:168" ph="..." />
               </folding>
             </state>
           </provider>
@@ -126,6 +100,8 @@
         <option value="$PROJECT_DIR$/module3/sort_by_last_letter.py" />
         <option value="$PROJECT_DIR$/module3/raise_to.py" />
         <option value="$PROJECT_DIR$/module3/enclosing.py" />
+        <option value="$PROJECT_DIR$/module3/make_timer.py" />
+        <option value="$PROJECT_DIR$/module3/escape_unicode.py" />
       </list>
     </option>
   </component>
@@ -179,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.escape_unicode">
     <configuration name="enclosing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_beyondBasics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,8 +177,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="escape_unicode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_beyondBasics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module3/escape_unicode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.enclosing" />
+      <item itemvalue="Python.escape_unicode" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.escape_unicode" />
+        <item itemvalue="Python.escape_unicode" />
         <item itemvalue="Python.enclosing" />
       </list>
     </recent_temporary>
@@ -332,12 +332,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module3/sort_by_last_letter.py">
+    <entry file="file://$PROJECT_DIR$/module3/enclosing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="-391">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
-            <marker date="1540871566132" expanded="true" signature="46:51" ph="..." />
+            <marker date="1540877911932" expanded="true" signature="59:64" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module3/make_timer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <marker date="1540878101094" expanded="true" signature="31:36" ph="..." />
           </folding>
         </state>
       </provider>
@@ -352,12 +362,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module3/enclosing.py">
+    <entry file="file://$PROJECT_DIR$/module3/sort_by_last_letter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
-            <marker date="1540877370600" expanded="true" signature="37:42" ph="..." />
+            <marker date="1540871566132" expanded="true" signature="46:51" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module3/escape_unicode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <marker date="1540878811955" expanded="true" signature="22:27" ph="..." />
+            <marker date="1540878811955" expanded="true" signature="163:168" ph="..." />
           </folding>
         </state>
       </provider>
