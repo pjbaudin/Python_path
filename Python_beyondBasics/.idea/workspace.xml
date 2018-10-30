@@ -2,20 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40030499-186b-41e6-a066-0ec0f58e9b73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reader/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reader/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reader/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reader/.idea/reader.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reader/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reader/compressed/bzipped.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reader/compressed/gzipped.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reader/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reader/reader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/Python_path.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Python_path.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reader/reader/reader/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reader/.idea/libraries/R_User_Library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reader/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reader/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reader/.idea/reader.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reader/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reader/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reader/compressed/bzipped.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reader/compressed/gzipped.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reader/notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reader/reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/reader/reader/reader/reader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reader/reader/__init__.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,88 +26,42 @@
     <session id="-1820360356">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="987" />
-          <entry key="py" value="457" />
-          <entry key="txt" value="125" />
+          <entry key="Python Console" value="1129" />
+          <entry key="py" value="599" />
+          <entry key="txt" value="171" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="125" />
-          <entry key="Python" value="1444" />
+          <entry key="PLAIN_TEXT" value="171" />
+          <entry key="Python" value="1728" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="bz2" value="1" />
-          <entry key="py" value="16" />
+          <entry key="py" value="32" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="16" />
+          <entry key="Python" value="32" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/reader/reader.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/reader/notes.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/reader/compressed/bzipped.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/reader/compressed/gzipped.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -118,6 +71,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Pierre Baudin &lt;pierrejean.baudin@hotmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
@@ -129,6 +87,10 @@
         <option value="$PROJECT_DIR$/reader/compressed/__init__.py" />
         <option value="$PROJECT_DIR$/reader/__init__.py" />
         <option value="$PROJECT_DIR$/reader/notes.txt" />
+        <option value="$PROJECT_DIR$/reader/reader/__init__.py" />
+        <option value="$PROJECT_DIR$/reader/__main__.py" />
+        <option value="$PROJECT_DIR$/reader/reader/compressed/__init__.py" />
+        <option value="$PROJECT_DIR$/reader/reader/reader/__init__.py" />
       </list>
     </option>
   </component>
@@ -160,7 +122,14 @@
               <item name="Python_beyondBasics" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_beyondBasics" type="462c0819:PsiDirectoryNode" />
               <item name="reader" type="462c0819:PsiDirectoryNode" />
-              <item name="compressed" type="462c0819:PsiDirectoryNode" />
+              <item name="reader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_beyondBasics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_beyondBasics" type="462c0819:PsiDirectoryNode" />
+              <item name="reader" type="462c0819:PsiDirectoryNode" />
+              <item name="reader" type="462c0819:PsiDirectoryNode" />
+              <item name="reader" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -171,6 +140,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pierr\Documents\GitHub\Python_path\Python_beyondBasics\reader\reader\reader" />
+      <recent name="C:\Users\pierr\Documents\GitHub\Python_path\Python_beyondBasics\reader\reader" />
       <recent name="C:\Users\pierr\Documents\GitHub\Python_path\Python_beyondBasics\reader" />
     </key>
   </component>
@@ -197,13 +168,20 @@
       <option name="presentableId" value="Default" />
       <updated>1540781665820</updated>
     </task>
+    <task id="LOCAL-00001" summary="package intro and subpackages implementation">
+      <created>1540790725486</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540790725486</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="2728" y="374" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -214,9 +192,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49840087" visible="true" weight="0.32939914" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4978678" visible="true" weight="0.32939914" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" sideWeight="0.50159913" side_tool="true" visible="true" weight="0.32939914" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.5021322" side_tool="true" visible="true" weight="0.32939914" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -227,41 +205,42 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="package intro and subpackages implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="package intro and subpackages implementation" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/reader/__init__.py">
+    <entry file="file://$PROJECT_DIR$/test.bz2">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reader/notes.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
+        <state relative-caret-position="34">
+          <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reader/compressed/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reader/compressed/bzipped.py">
+    <entry file="file://$PROJECT_DIR$/reader/reader/reader/__main__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reader/compressed/gzipped.py">
+    <entry file="file://$PROJECT_DIR$/reader/reader/reader/compressed/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.bz2">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reader/reader.py">
+    <entry file="file://$PROJECT_DIR$/reader/reader/reader/reader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
@@ -271,10 +250,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reader/notes.txt">
+    <entry file="file://$PROJECT_DIR$/reader/reader/reader/compressed/bzipped.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="67" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reader/reader/reader/compressed/gzipped.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reader/reader/reader/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reader/reader/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reader/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
