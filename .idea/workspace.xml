@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50893a6c-5e6d-4ca0-94a8-b69d815c3ee7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_beyondBasics/module_13/introspector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_beyondBasics/module_13/numerals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_beyondBasics/module_13/sorted_set.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -306,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540775048695</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="python beyond basics - build introspector">
+      <created>1551148457008</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1551148457008</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -338,7 +342,8 @@
     <MESSAGE value="Iterable module" />
     <MESSAGE value="Class modules - aircraft seats examples" />
     <MESSAGE value="Clean up directory and prepare for python beyond basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clean up directory and prepare for python beyond basics" />
+    <MESSAGE value="python beyond basics - build introspector" />
+    <option name="LAST_COMMIT_MESSAGE" value="python beyond basics - build introspector" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/3- Final Module/roots.py">
